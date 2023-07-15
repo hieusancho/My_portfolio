@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.81bc9974.css",
-    "main.js": "/static/js/main.56a8e087.js",
-    "static/media/avatar.svg": "/static/media/avatar.add0966d1d63e70b7e86c104beeaa9f1.svg",
-    "static/media/Furniture Shop.png": "/static/media/Furniture Shop.158dffe78270b9ada5ea.png",
-    "static/media/New year.png": "/static/media/New year.29e8bbb862764698d1b1.png",
-    "static/media/site-bg.jpg": "/static/media/site-bg.54724d703024833ef9c6.jpg",
-    "static/media/Porfolio.png": "/static/media/Porfolio.0a59701fc06b2346d1e4.png",
-    "static/media/Shopee.png": "/static/media/Shopee.b8a575f34b21f04367f2.png",
-    "static/media/services.png": "/static/media/services.8e66d4fbbd95de45b8db.png",
-    "static/media/about.png": "/static/media/about.34da930ab4436bc41a33.png",
-    "static/media/Music.png": "/static/media/Music.f22e755d2b664a00e105.png",
-    "static/media/logo.svg": "/static/media/logo.db69ab3d72628dc90d79e6a2d59e174b.svg",
-    "index.html": "/index.html",
-    "main.81bc9974.css.map": "/static/css/main.81bc9974.css.map",
-    "main.56a8e087.js.map": "/static/js/main.56a8e087.js.map"
+    "main.css": "/hieusancho/My_portfolio/static/css/main.73851e83.css",
+    "main.js": "/hieusancho/My_portfolio/static/js/main.79d7250f.js",
+    "static/media/avatar.svg": "/hieusancho/My_portfolio/static/media/avatar.add0966d1d63e70b7e86c104beeaa9f1.svg",
+    "static/media/Furniture Shop.png": "/hieusancho/My_portfolio/static/media/Furniture Shop.158dffe78270b9ada5ea.png",
+    "static/media/New year.png": "/hieusancho/My_portfolio/static/media/New year.29e8bbb862764698d1b1.png",
+    "static/media/site-bg.jpg": "/hieusancho/My_portfolio/static/media/site-bg.54724d703024833ef9c6.jpg",
+    "static/media/Porfolio.png": "/hieusancho/My_portfolio/static/media/Porfolio.0a59701fc06b2346d1e4.png",
+    "static/media/Shopee.png": "/hieusancho/My_portfolio/static/media/Shopee.b8a575f34b21f04367f2.png",
+    "static/media/services.png": "/hieusancho/My_portfolio/static/media/services.8e66d4fbbd95de45b8db.png",
+    "static/media/about.png": "/hieusancho/My_portfolio/static/media/about.34da930ab4436bc41a33.png",
+    "static/media/Music.png": "/hieusancho/My_portfolio/static/media/Music.f22e755d2b664a00e105.png",
+    "static/media/logo.svg": "/hieusancho/My_portfolio/static/media/logo.db69ab3d72628dc90d79e6a2d59e174b.svg",
+    "index.html": "/hieusancho/My_portfolio/index.html",
+    "main.73851e83.css.map": "/hieusancho/My_portfolio/static/css/main.73851e83.css.map",
+    "main.79d7250f.js.map": "/hieusancho/My_portfolio/static/js/main.79d7250f.js.map"
   },
   "entrypoints": [
-    "static/css/main.81bc9974.css",
-    "static/js/main.56a8e087.js"
+    "static/css/main.73851e83.css",
+    "static/js/main.79d7250f.js"
   ]
 }
