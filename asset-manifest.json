@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/hieusancho/My_portfolio/static/css/main.6f53cbff.css",
-    "main.js": "/hieusancho/My_portfolio/static/js/main.61dfcbb1.js",
+    "main.css": "/hieusancho/My_portfolio/static/css/main.502ab26b.css",
+    "main.js": "/hieusancho/My_portfolio/static/js/main.578ecb73.js",
     "static/media/avatar.svg": "/hieusancho/My_portfolio/static/media/avatar.add0966d1d63e70b7e86c104beeaa9f1.svg",
     "static/media/Furniture Shop.png": "/hieusancho/My_portfolio/static/media/Furniture Shop.158dffe78270b9ada5ea.png",
     "static/media/New year.png": "/hieusancho/My_portfolio/static/media/New year.29e8bbb862764698d1b1.png",
@@ -12,12 +12,10 @@
     "static/media/about.png": "/hieusancho/My_portfolio/static/media/about.34da930ab4436bc41a33.png",
     "static/media/Music.png": "/hieusancho/My_portfolio/static/media/Music.f22e755d2b664a00e105.png",
     "static/media/logo.svg": "/hieusancho/My_portfolio/static/media/logo.db69ab3d72628dc90d79e6a2d59e174b.svg",
-    "index.html": "/hieusancho/My_portfolio/index.html",
-    "main.6f53cbff.css.map": "/hieusancho/My_portfolio/static/css/main.6f53cbff.css.map",
-    "main.61dfcbb1.js.map": "/hieusancho/My_portfolio/static/js/main.61dfcbb1.js.map"
+    "index.html": "/hieusancho/My_portfolio/index.html"
   },
   "entrypoints": [
-    "static/css/main.6f53cbff.css",
-    "static/js/main.61dfcbb1.js"
+    "static/css/main.502ab26b.css",
+    "static/js/main.578ecb73.js"
   ]
 }
